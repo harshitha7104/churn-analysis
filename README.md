@@ -1,4 +1,12 @@
 # Seller Churn Analysis — Flipkart/Amazon-style Marketplace
+## Live Dashboard
+
+[Churn Analysis — Live Dashboard](https://churn-analysis-fe2fxtjuq6txucakln9npm.streamlit.app/)
+
+## GitHub Repository
+
+[Churn Analysis — Source Code](https://github.com/harshitha7104/churn-analysis)
+
 
 **Business problem:** ~40% of marketplace sellers churn (stop selling) within their first year.
 This project identifies churn drivers, segments sellers into behavioral archetypes, builds a
