@@ -1,7 +1,7 @@
 # Seller Churn Analysis — Flipkart/Amazon-style Marketplace
 ## Live Dashboard
 
-[Churn Analysis — Live Dashboard](https://churn-analysis-fe2fxtjuq6txucakln9npm.streamlit.app/)
+[Churn Analysis — Live Dashboard](https://churn-analysis-oml9a6sqd6fupgzwcrpwy8.streamlit.app/)
 
 ## GitHub Repository
 
